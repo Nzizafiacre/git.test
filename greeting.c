@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("nkurunziza Fiacre\n");
-    return 0;     
+    printf("Hello, World!\n");
+    return 0;
 }
